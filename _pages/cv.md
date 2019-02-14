@@ -13,6 +13,7 @@ Education
 ======
 * M.S. in Computer Science, University of Macau, 2020(expected)
 * B.Eng. in Computer Science & Technology, Nanjing Forestry University, 2018
+
 Work experience
 ======
 * Fall 2018: Teaching Assistant
