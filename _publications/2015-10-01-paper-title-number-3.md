@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Applying L-SRC for non-invasive disease detection using facial chromaticity and texture features"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'In this paper, we propose a novel classifier based on the fusion of the linear discriminant analysis (LDA) and the sparse representation based classifier (SRC) named L-SRC, to perform disease detection. '
+date: 2019-02-10
+venue: '2019 IEEE 7th International Conference on Bioinformatics and Computational Biology.'
+paperurl: 'http://combatzhou.github.io/files/ICBCB 2019 Notification-IEEE.pdf'
+citation: 'J.H. Zhou, Q. Zhang, Bob Zhang*. (2019). &quot;Applying L-SRC for non-invasive disease detection using facial chromaticity and texture features.&quot; <i>2019 IEEE 7th International Conference on Bioinformatics and Computational Biology</i>. (2019).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+In this paper, we propose a novel classifier based on the fusion of the linear discriminant analysis (LDA) and the sparse representation based classifier (SRC) named L-SRC, to perform disease detection. 
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://combatzhou.github.io/files/ICBCB 2019 Notification-IEEE.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: J.H. Zhou, Q. Zhang, Bob Zhang*. (2019). &quot;Applying L-SRC for non-invasive disease detection using facial chromaticity and texture features.&quot; <i>2019 IEEE 7th International Conference on Bioinformatics and Computational Biology</i>. (2019).
