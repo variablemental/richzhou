@@ -1,15 +1,19 @@
 ---
-title: "Paper Title Number 2"
+title: "A Novel Fusion Strategy for Probabilistic Sparse Representation Classifier Guided by Support Vector Machines "
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'To boost the recognition performance and maintain the robustness of SRC,
+we introduce the theory of probability to offer different weights for each element in the coefficient vectors of SRC and
+CRC, respectively.'
+date: 2019-01-10
+venue: 'The 11th International Conference on Digital Image Processing conference'
+paperurl: 'http://combatzhou.github.io/files/IP0009.pdf'
+citation: 'J.H. Zhou, S.N. Zeng, Bob Zhang*. (2019). &quot;A Novel Fusion Strategy for Probabilistic Sparse Representation Classifier Guided by Support Vector Machines.&quot; <i>The 11th International Conference on Digital Image Processing conference</i>. (2019).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+To boost the recognition performance and maintain the robustness of SRC,
+we introduce the theory of probability to offer different weights for each element in the coefficient vectors of SRC and
+CRC, respectively.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://combatzhou.github.io/files/IP0009.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: .H. Zhou, S.N. Zeng, Bob Zhang*. (2019). &quot;A Novel Fusion Strategy for Probabilistic Sparse Representation Classifier Guided by Support Vector Machines.&quot; <i>The 11th International Conference on Digital Image Processing conference</i>. (2019).
