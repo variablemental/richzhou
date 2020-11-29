@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Jianhang Zhou / Keep going and show the best!"
 title_separator          : "-"
 name                     : &name "Jianhang Zhou"
-description              : &description "Master student in University of Macau"
-url                      : https://combatzhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Ph.D. student in University of Macau"
+url                      : https://variablemental.github.io/richzhou.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "combatzhou.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "teaser.jpeg"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -23,7 +23,7 @@ talkmap_link             : false #change to true to add link to talkmap on talks
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            :
+    shortname            : Rich
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -85,8 +85,8 @@ author:
   bio              : "Master student in University of Macau"
   location         : "Taipa, Macau, China"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "mb85405@um.edu.mo"
+  googlescholar    : "https://scholar.google.com/citations?user=enoKkoYAAAAJ&hl"
+  email            : "yc07424@um.edu.mo"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
