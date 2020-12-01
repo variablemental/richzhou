@@ -3,7 +3,7 @@ title: "Two-stage knowledge transfer framework for image classification"
 collection: publications
 permalink: /publication/A_tsstss.md
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020-11-01
+date: 1000-11-01
 venue: 'Pattern Recognition'
 paperurl: 'http://combatzhou.github.io/files/Localized GEPSVM in Mahalanobis metric.pdf'
 citation: 'Jianhang Zhou, Shaoning Zeng, Bob Zhang (2020). &quot;Two-stage knowledge transfer framework for image classification.&quot; <i>Pattern Recognition</i>. 107(107529).'
