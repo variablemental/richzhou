@@ -1,7 +1,7 @@
 ---
 title: "An automatic multi-view disease detection system via Collective Deep Region-based Feature Representation"
 collection: publications
-permalink: /publication/FGCS.md
+permalink: /publication/FGCS
 excerpt: 'We present an automatic multi-view disease detection system, which contains a series of automatic procedures.'
 date: 1000-11-02
 venue: 'Future Generation Computer Systems'
