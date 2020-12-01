@@ -9,6 +9,6 @@ paperurl: 'http://combatzhou.github.io/files/1-s2.0-S0031320320303320-main.pdf'
 citation: 'Jianhang Zhou, Shaoning Zeng, Bob Zhang (2020). &quot;Two-stage knowledge transfer framework for image classification.&quot; <i>Pattern Recognition</i>. 107(107529).'
 ---
 
-[Download paper here](http://combatzhou.github.io/files/TSSTSS.pdf)
+[Download paper here](http://combatzhou.github.io/files/1-s2.0-S0031320320303320-main.pdf)
 
-Recommended citation: J. Zhou, S. Zeng, B. Zhang. (2020). &quot;Two-stage knowledge transfer framework for image classification.&quot; <i>Pattern Recognition</i>. 107(107529).
+Recommended citation: J. Zhou, S. Zeng, B. Zhang. (2020). &quot;Two-stage knowledge transfer framework for image classification.&quot; <i>Pattern Recognition</i>. 115 (107529).
