@@ -1,7 +1,7 @@
 ---
 title: "A shell dataset, for shell features extraction and recognition"
 collection: publications
-permalink: /publication/shells.md
+permalink: /publication/shells
 excerpt: 'We initially present a shell dataset, containing 7894 shell species with 29622 samples, where totally 59244 shell images for shell features extraction and recognition are used.'
 date: 1000-11-04
 venue: 'Scientific Data'
