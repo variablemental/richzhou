@@ -6,7 +6,7 @@ excerpt: 'The two-stage strategy has been widely used in image classification. H
 date: 1000-11-01
 venue: 'Pattern Recognition'
 paperurl: 'http://combatzhou.github.io/files/1-s2.0-S0031320320303320-main.pdf'
-citation: 'Jianhang Zhou, Shaoning Zeng, Bob Zhang (2020). &quot;Two-stage knowledge transfer framework for image classification.&quot; <i>Pattern Recognition</i>. 107(107529).'
+citation: '<b>Jianhang Zhou</b>, Shaoning Zeng, Bob Zhang (2020). &quot;Two-stage knowledge transfer framework for image classification.&quot; <i>Pattern Recognition</i>. 107(107529).'
 ---
 
 [Download paper here](http://combatzhou.github.io/files/1-s2.0-S0031320320303320-main.pdf)
