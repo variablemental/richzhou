@@ -30,7 +30,7 @@ Work experience
 ======
 * Teaching Assistant    2018-present
   * UNIVERSITY OF MACAU
-  * Course teaching: FORMAL LANGUAGES AND AUTOMATA, Introduction to Computer Science
+  * Course teaching: Formal Languages and Automata, Introduction to Computer Science
 
 * IT Intern &nbsp&nbsp    2017
   * THERMO FISHER SCIENTIFIC CO.,LTD
