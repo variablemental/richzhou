@@ -28,15 +28,15 @@ Certificates and Awards
 
 Work experience
 ======
-* Teaching Assistant &nbsp&nbsp 2018-present
+* Teaching Assistant    2018-present
   * UNIVERSITY OF MACAU
   * Course teaching: FORMAL LANGUAGES AND AUTOMATA, Introduction to Computer Science
 
-* IT Intern &nbsp&nbsp 2017
+* IT Intern &nbsp&nbsp    2017
   * THERMO FISHER SCIENTIFIC CO.,LTD
   * Duties included: Maintain the business data on ERP system, Administration of electronic accounts system of staffs, Salesforce manual editing
   
-* NLP Android developer 2017.10-2018.01
+* NLP Android developer    2017.10-2018.01
   * CERTUSNET INC.
   * Duties included: Android programming, test and maintenance, Natural Language Processing Corpus processing and training, Salesforce manual editing
 
