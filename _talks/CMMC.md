@@ -1,7 +1,7 @@
 ---
-title: "The 15th China Post-graduate Mathematical Contest in Modeling"
+title: "The 15th China Post-graduate Mathematical Contest in Modeling (First Prize Winner)"
 collection: talks
-type: "Talk"
+type: "Win first prize"
 permalink: /talks/CMMC
 venue: "Ocean University of China"
 date: 2018-12-07
