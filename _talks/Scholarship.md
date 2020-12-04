@@ -5,5 +5,5 @@ type: "Get <b><i>Scholarship</i></b>"
 permalink: /talks/Scholarship
 venue: "NJFU"
 date: 2015-01-20
-location: "Qingdao, China"
+location: "Nanjing, China"
 ---
