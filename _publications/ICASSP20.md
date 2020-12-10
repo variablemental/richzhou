@@ -3,7 +3,6 @@ title: "A Noninvasive Method to Detect Diabetes Mellitus and Lung Cancer Using t
 collection: publications
 permalink: /publication/ICASSP20
 excerpt: 'The aim of this paper is to distinguish patients with diabetes mellitus, lung cancer from healthy people simultaneously by analyzing facial images through the stacked sparse autoencoder.'
-date: 2000-11-01
 venue: 'ICASSP2020'
 citation: 'Qi Zhang, <b>Jianhang Zhou</b>, Bob Zhang (2020). &quot;A Noninvasive Method to Detect Diabetes Mellitus and Lung Cancer Using the Stacked Sparse autoencoder.&quot; <i>2020 International Conference on Acoustics, Speech, and Signal Processing (ICASSP2020)</i>, 1409-1413.'
 ---
