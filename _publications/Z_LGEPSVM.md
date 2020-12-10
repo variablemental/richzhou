@@ -3,7 +3,6 @@ title: "Localized GEPSVM in Mahalanobis metric "
 collection: publications
 permalink: /publication/Z_LGEPSVM
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021-12-31
 venue: 'Journal of NanJing Normal University'
 citation: '<b>Jianhang Zhou</b>, Xubing Yang*, Fuquan Zhang, Qiaolin Ye, Dengping Xu. (2018). &quot;Localized GEPSVM in Mahalanobis metric.&quot; <i>Journal of NanJing Normal University</i>, 41(65).'
 ---
