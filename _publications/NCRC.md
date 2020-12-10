@@ -3,7 +3,6 @@ title: "Collaborative Representation Using Non-Negative Samples for Image Classi
 collection: publications
 permalink: /publication/NCRC
 excerpt: 'we propose a novel collaborative representation by directly using non-negative representations to represent a test sample collaboratively, termed Non-negative Collaborative Representation-based Classifier (NCRC).'
-date: 1000-11-03
 venue: 'Sensors'
 citation: '<b>Jianhang Zhou</b>, Bob Zhang (2019). &quot;Collaborative Representation Using Non-Negative Samples for Image Classification.&quot; <i>Sensors</i>. 19(11), 2609.'
 ---
