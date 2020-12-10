@@ -14,6 +14,12 @@ Education
 * M.S. in Computer Science, University of Macau, 2018-2020.
 * B.Eng. in Computer Science & Technology, Nanjing Forestry University, 2014-2018.
 
+Research Interests
+======
+* Sparse representation
+* Linear-representation for pattern recognition
+* Medical biometrics
+
 Publications
 ======
   <ul>{% for post in site.publications %}
