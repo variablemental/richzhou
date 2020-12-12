@@ -7,6 +7,6 @@ venue: 'IEEE Access'
 citation: '<b>Jianhang Zhou</b>, Shaoning Zeng, Bob Zhang (2020). &quot;Linear Representation-Based Methods for Image Classification: A Survey.&quot; <i>IEEE Access</i>, vol.8, pp.216645-216670.'
 ---
 
-[Download paper here](http://combatzhou.github.io/files/1-s2.0-S0031320320303320-main.pdf)
+[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9274486)
 
 This paper summarizes fundamentals, applications, and analysis of the linear representation-based methods.
