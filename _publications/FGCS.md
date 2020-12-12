@@ -7,6 +7,6 @@ venue: 'Future Generation Computer Systems'
 citation: '<b>Jianhang Zhou</b>, Qi Zhang, Bob Zhang (2021). &quot;An automatic multi-view disease detection system via Collective Deep Region-based Feature Representation.&quot; <i>Future Generation Computer Systems</i>. 107, 59-75.'
 ---
 
-[Download paper here](http://combatzhou.github.io/files/1-s2.0-S0167739X20303897-main.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0167739X20303897)
 
 We present an automatic multi-view disease detection system, which contains a series of automatic procedures.
