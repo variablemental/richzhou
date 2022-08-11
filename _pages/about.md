@@ -16,7 +16,7 @@ Education
 
 Research Interests
 ======
-* Sparse representation; Linear-representation for pattern recognition; Medical biometrics.
+* Sparse representation; Subspace learning; Graph learning; Medical biometrics.
 
 Publications
 ======
