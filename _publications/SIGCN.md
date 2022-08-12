@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/SIGCN
 excerpt: 'we apply unified GR techniques and GCNs in a framework that can be implemented in semisupervised learning problems. To achieve this framework, we propose sparsity-induced graph convolutional network (SIGCN) for semisupervised learning. SIGCN introduces the sparsity to formulate significant relationships between instances by constructing a newly proposed $L_0$ -based graph (termed as the sparsity-induced graph) before applying graph convolution to capture the high-quality features based on this graph for label propagation.'
 venue: 'IEEE Transactions on Artificial Intelligence'
-citation: '<b>Jianhang Zhou</b>, Shaoning Zeng, Bob Zhang (2020). &quot;Two-stage knowledge transfer framework for image classification.&quot; <i>Pattern Recognition</i>. 107(107529).'
+citation: 'Zhou, J., Zeng, S., & Zhang, B. (2021). Sparsity-Induced Graph Convolutional Network for Semisupervised Learning. IEEE Transactions on Artificial Intelligence, 2(6), 549-563.'
 ---
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0031320320303320)
