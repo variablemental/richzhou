@@ -1,5 +1,5 @@
 ---
-title: "TongueNet: A Precise and Fast Tongue Segmentation System Using U-Net with a Morphological Processing Layer"
+title: "TongueNet: a precise and fast tongue segmentation system using U-Net with a morphological processing layer"
 collection: publications
 permalink: /publication/TongueNet
 excerpt: 'We proposed TongueNet, which is a precise and fast automatic tongue segmentation system.'
