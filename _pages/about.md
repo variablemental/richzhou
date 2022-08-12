@@ -33,8 +33,12 @@ Certificates and Awards
 Work experience
 ======
 * Teaching Assistant    2018-present
-  * UNIVERSITY OF MACAU
+  * University of Macau
   * Course teaching: Formal Languages and Automata, Introduction to Computer Science
+
+* Research Assistant    2022
+  * The Chinese University of Hong Kong (CUHK), Shenzhen
+  * Research topic: Image processing, medical biometrics
 
 * IT Intern &nbsp&nbsp    2017
   * THERMO FISHER SCIENTIFIC CO.,LTD
