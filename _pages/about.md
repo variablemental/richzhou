@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jianhang Zhou (Rich)`s home page"
+title: "Welcome to Jianhang Zhou (Rich)`s home page!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
