@@ -18,17 +18,14 @@ Research Interests
 ======
 * Sparse representation; Subspace learning; Graph learning; Medical biometrics.
 
-Publications
+Selected Publications
 ======
-  <ul>{% for post in site.publications %}
+* <b>Zhou, J.</b>, Zhang, B., Zeng, S., & Lai, Q. (2021). Joint Discriminative Latent Subspace Learning for Image Classification. <i>IEEE Transactions on Circuits and Systems for Video Technology</i>. [[paper]]([https://arxiv.org/abs/2104.10314](https://ieeexplore.ieee.org/abstract/document/9648339?casa_token=-cL7rL9ARNAAAAAA:ajcZzIm7LuR-Y7wrWT7GHzRwuf_LXv9VO-6HdDHCaI1hBCLidBtXvPAebXDLETQDVWd3Qrs5))
+
+<!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Certificates and Awards
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+ 
 
 Work experience
 ======
@@ -47,6 +44,12 @@ Work experience
 * NLP Android developer    2017.10-2018.01
   * CERTUSNET INC.
   * Duties included: Android programming, test and maintenance, Natural Language Processing Corpus processing and training, Salesforce manual editing
+
+Certificates and Awards
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
 
 Position in campus
 ======
