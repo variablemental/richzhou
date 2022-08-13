@@ -29,7 +29,7 @@ Selected Publications
 * Zhang, B., & <b>Zhou, J</b>. (2021). Multi-feature representation for burn depth classification via burn images. <i>Artificial Intelligence in Medicine</i>, 118, 102128. [[paper]](https://www.sciencedirect.com/science/article/pii/S0933365721001214?casa_token=2EXh76yJbCoAAAAA:LKJy4y-1XL45_xeKml1qDoldtOO4gjp5x9ltbuk-XQmGBw5F6E0Qr0RCNiLqQHZOfCJNDOnkOg)
 * Zhou, J., Zhang, Q., & Zhang, B. (2020, September). A progressive stack face-based network for detecting diabetes mellitus and breast cancer. <i>In 2020 IEEE International Joint Conference on Biometrics (IJCB)</i> (pp. 1-9). IEEE. [[paper]](https://ieeexplore.ieee.org/abstract/document/9304887?casa_token=vV5h8OgBcwEAAAAA:7-NnZwKyDqSw_MMn28Nw2mQRmxM2MrhhNpW8cFXmqwSyJyNETerigTTNa6eLGPyzdevz986p)
 * <b>Zhou, J.</b>, Zeng, S., & Zhang, B. (2021). Subspace-level dictionary fusion for robust multimedia classification. <i>Multimedia Tools and Applications</i>, 80(14), 21885-21898. [[paper]](https://link.springer.com/article/10.1007/s11042-021-10661-1)
-* <b>Zhou, J.</b>, Zhang, Q., Zhang, B., & Chen, X. (2019). TongueNet: a precise and fast tongue segmentation system using U-Net with a morphological processing layer. Applied Sciences</i>, 9(15), 3128. [[paper]](https://www.mdpi.com/2076-3417/9/15/3128)
+* <b>Zhou, J.</b>, Zhang, Q., Zhang, B., & Chen, X. (2019). TongueNet: a precise and fast tongue segmentation system using U-Net with a morphological processing layer. <i>Applied Sciences</i>, 9(15), 3128. [[paper]](https://www.mdpi.com/2076-3417/9/15/3128)
 * <b>Zhou, J.</b>, & Zhang, B. (2019). Collaborative representation using non-negative samples for image classification. <i>Sensors</i>, 19(11), 2609. [[paper]](https://www.mdpi.com/1424-8220/19/11/2609)
 * <i>For the <b>full publication list</b> and more details, plese kindly refer to the 'Publication' section</i>, Thanks!
 
@@ -39,7 +39,7 @@ Selected Publications
 
 News
 ======
-* <b>[26/04/2022]</b> Cheers! With passing the thesis proposal assessment, I have become a <i>Ph.D.<\i> candidate now!
+* <b>[26/04/2022]</b> Cheers! With passing the thesis proposal assessment, I have become a <i>Ph.D. candidate<\i> now!
 * <b>[28/01/2022]</b> I worked as a research assisstant at the Chinese University of Hong Kong, Shenzhen (CUHK-SZ) from today.
 * <b>[03/11/2021]</b> A paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology.
 Work experience
