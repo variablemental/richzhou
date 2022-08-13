@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jianhang Zhou / Keep going and show the best!"
 title_separator          : "-"
 name                     : &name "Jianhang Zhou"
-description              : &description "Ph.D. student in University of Macau"
+description              : &description "Ph.D. candidate in University of Macau"
 url                      : https://variablemental.github.io/richzhou.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "combatzhou.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jianhang Zhou"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in University of Macau"
+  bio              : "Ph.D. candidate in University of Macau"
   location         : "Taipa, Macau SAR"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=enoKkoYAAAAJ&hl"

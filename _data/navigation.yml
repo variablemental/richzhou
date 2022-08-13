@@ -5,14 +5,11 @@ main:
 
   - title: "Awards & Certificates"
     url: /talks/    
-
-  - title: "Copyrights & Patent"
-    url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "News"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Contact"
     url: /year-archive/
     
   - title: "CV"
