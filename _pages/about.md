@@ -42,7 +42,8 @@ News
 * <b>[26/04/2022]</b> Cheers! With passing the thesis proposal assessment, I have become a <i> Ph.D. candidate <\i> now!
 * <b>[28/01/2022]</b> I worked as a research assisstant at the Chinese University of Hong Kong, Shenzhen (CUHK-SZ) from today.
 * <b>[03/11/2021]</b> A paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology.
-Work experience
+
+Working experience
 ======
 * Teaching Assistant    2018-present
   * University of Macau
