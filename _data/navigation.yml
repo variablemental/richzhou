@@ -7,10 +7,10 @@ main:
     url: /talks/    
     
   - title: "News"
-    url: /portfolio/
+    url: /year-archive/
         
   - title: "Contact"
-    url: /year-archive/
+    url: /portfolio/
     
   - title: "CV"
     url: /cv/
