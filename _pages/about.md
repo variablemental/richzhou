@@ -20,9 +20,11 @@ Research Interests
 
 Selected Publications
 ======
+* <b>Zhou, J.</b>, Zhang, Q., Zeng, S., & Zhang, B. (2022). Fuzzy Graph Subspace Convolutional Network. <i>IEEE Transactions on Neural Networks and Learning Systems</i>. [[paper]](https://ieeexplore.ieee.org/abstract/document/9911992)
 * <b>Zhou, J.</b>, Zhang, B., Zeng, S., & Lai, Q. (2021). Joint Discriminative Latent Subspace Learning for Image Classification. <i>IEEE Transactions on Circuits and Systems for Video Technology</i>. [[paper]](https://ieeexplore.ieee.org/abstract/document/9648339?casa_token=-cL7rL9ARNAAAAAA:ajcZzIm7LuR-Y7wrWT7GHzRwuf_LXv9VO-6HdDHCaI1hBCLidBtXvPAebXDLETQDVWd3Qrs5)
 * <b>Zhou, J.</b>, Zeng, S., & Zhang, B. (2021). Sparsity-Induced Graph Convolutional Network for Semisupervised Learning. <i>IEEE Transactions on Artificial Intelligence</i>, 2(6), 549-563. [[paper]](https://ieeexplore.ieee.org/abstract/document/9483578?casa_token=QpeVvkungVoAAAAA:0Zkyfki8gxG2YCZd5ycCRz0a1-tIswpExf3OoT30sJjxGNi6hx0pnZz9HgB9rFvGsUD-1vHj)
 * <b>Zhou, J.</b>, Zeng, S., & Zhang, B. (2020). Two-stage knowledge transfer framework for image classification. <i>Pattern Recognition</i>, 107, 107529. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320320303320?casa_token=zRnS9wDLi9cAAAAA:NOk2sRmmBeOgPX-J5QA7wb7bxn1gyfWKyM6h7YIEyRQ-TQM4o_vjcvh49ng0xKb2D71Ad4D2BQ)
+* <b>Zhou, J.</b>, Zeng, S., & Zhang, B. (2022). Learning salient self-representation for image recognition via orthogonal transformation. <i>Expert Systems with Applications 212</i>, 212, 118663. [[paper]](https://ieeexplore.ieee.org/abstract/document/9911992)
 * <b>Zhou, J.</b>, Zhang, Q., & Zhang, B. (2021). An automatic multi-view disease detection system via collective deep region-based feature representation. <i>Future Generation Computer Systems</i>, 115, 59-75. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20303897?casa_token=cwhA7zbZB_YAAAAA:ZKCZ0LlZXUpKN6rxtxCMws3JzwLj3j-6o6PaA_QDTlLv19uZ8JCgYJ4kMNQ18ebWS5qiepJ4nw)
 * <b>Zhou, J.</b>, Zeng, S., & Zhang, B. (2022). Kernel nonnegative representation-based classifier. <i>Applied Intelligence</i>, 52(2), 2269-2289. [[paper]](https://link.springer.com/article/10.1007/s10489-021-02486-0)
 * <b>Zhou, J.</b>, Zhang, Q., & Zhang, B. (2021). Two-phase non-invasive multi-disease detection via sublingual region. <i>Computers in Biology and Medicine</i>, 137, 104782. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S001048252100576X?casa_token=1T5VyaAYtF0AAAAA:y1sy0qAKHdTer4KspfW7tOImnUpUQXDPXaopYnWqi6pgfT1H6FaIqT7ZTb_Lsoc54dnjUJ7Fww)
@@ -39,6 +41,8 @@ Selected Publications
 
 News
 ======
+* <b>[30/09/2022]</b> A paper has been accepted by IEEE Transactions on Neural Networks and Learning Systems.
+ * <b>[26/08/2022]</b> Cheers! A paper has been accepted by Expert Systems with Applications.
 * <b>[26/04/2022]</b> Cheers! With passing the thesis proposal assessment, I have become a <i> Ph.D. candidate <\i> now!
 * <b>[28/01/2022]</b> I worked as a research assisstant at the Chinese University of Hong Kong, Shenzhen (CUHK-SZ) from today.
 * <b>[03/11/2021]</b> A paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology.
