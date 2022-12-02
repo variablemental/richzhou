@@ -6,14 +6,14 @@ main:
   - title: "Awards & Certificates"
     url: /talks/    
     
-  - title: "News"
-    url: /year-archive/
+#   - title: "News"
+#     url: /year-archive/
         
   - title: "Contact"
     url: /portfolio/
     
-  - title: "CV"
-    url: /cv/
+#   - title: "CV"
+#     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+#   - title: "Guide"
+#     url: /markdown/
