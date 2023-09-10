@@ -20,7 +20,7 @@ Research Interests
 
 Selected Publications
 ======
-* <b>Zhou, J.</b>, Zhang, B., & Zeng, S. (2022). Consensus Sparsity: Multi-context Sparse Image Representation via $L_{\infty}$-induced Matrix Variate. <i>IEEE Transactions on Image Processing</i>. (Just Accepted)
+* <b>Zhou, J.</b>, Zhang, B., & Zeng, S. (2022). Consensus Sparsity: Multi-context Sparse Image Representation via $L_{\infty}$-induced Matrix Variate. <i>IEEE Transactions on Image Processing</i>. 32, 603-616.
 * <b>Zhou, J.</b>, Zhang, Q., Zeng, S., & Zhang, B. (2022). Fuzzy Graph Subspace Convolutional Network. <i>IEEE Transactions on Neural Networks and Learning Systems</i>. [[paper]](https://ieeexplore.ieee.org/abstract/document/9911992)
 * <b>Zhou, J.</b>, Zhang, B., Zeng, S., & Lai, Q. (2021). Joint Discriminative Latent Subspace Learning for Image Classification. <i>IEEE Transactions on Circuits and Systems for Video Technology</i>. [[paper]](https://ieeexplore.ieee.org/abstract/document/9648339?casa_token=-cL7rL9ARNAAAAAA:ajcZzIm7LuR-Y7wrWT7GHzRwuf_LXv9VO-6HdDHCaI1hBCLidBtXvPAebXDLETQDVWd3Qrs5)
 * <b>Zhou, J.</b>, Zeng, S., & Zhang, B. (2021). Sparsity-Induced Graph Convolutional Network for Semisupervised Learning. <i>IEEE Transactions on Artificial Intelligence</i>, 2(6), 549-563. [[paper]](https://ieeexplore.ieee.org/abstract/document/9483578?casa_token=QpeVvkungVoAAAAA:0Zkyfki8gxG2YCZd5ycCRz0a1-tIswpExf3OoT30sJjxGNi6hx0pnZz9HgB9rFvGsUD-1vHj)
@@ -42,6 +42,7 @@ Selected Publications
 
 News
 ======
+* <b>[09/2023]</b> I have finished by oral defense of my doctoral degree! 🥰.
 * <b>[10/12/2022]</b> A paper has been accepted by IEEE Transactions on Image Processing ;).
 * <b>[30/09/2022]</b> A paper has been accepted by IEEE Transactions on Neural Networks and Learning Systems.
  * <b>[26/08/2022]</b> Cheers! A paper has been accepted by Expert Systems with Applications.
