@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, University of Macau, 2020(expected)
+* Ph.D. in Computer Science, University of Macau, 2023
+* M.S. in Computer Science, University of Macau, 2020
 * B.Eng. in Computer Science & Technology, Nanjing Forestry University, 2018
 
 Work experience
