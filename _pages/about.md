@@ -53,23 +53,23 @@ News
 
 Working experience
 ======
-* Teaching Assistant    2018-present
+* <b>Teaching Assistant</b>    2018-present
   * University of Macau
   * Course teaching: Formal Languages and Automata, Introduction to Computer Science
 
-* Research Assistant    2022
+* <b>Research Assistant</b>    2022
   * The Chinese University of Hong Kong (CUHK), Shenzhen
   * Research topic: Image processing, medical biometrics
 
-* Visiting PhD student    2023
+* <b>Visiting PhD student</b>    2023
   * University of Electronic Science and Technology of China (Huzhou Institute)
   * Research topic: Sparse representation, image segmentation
 
-* IT Intern    2017
+* <b>IT Intern</b>    2017
   * THERMO FISHER SCIENTIFIC CO.,LTD
   * Duties included: Maintain the business data on ERP system, Administration of electronic accounts system of staffs, Salesforce manual editing
   
-* NLP Android developer    2017.10-2018.01
+* <b>NLP Android developer</b>    2017.10-2018.01
   * CERTUSNET INC.
   * Duties included: Android programming, test and maintenance, Natural Language Processing Corpus processing and training, Salesforce manual editing
 
