@@ -61,6 +61,10 @@ Working experience
   * The Chinese University of Hong Kong (CUHK), Shenzhen
   * Research topic: Image processing, medical biometrics
 
+* Visiting PhD student    2023
+  * University of Electronic Science and Technology of China (Huzhou Institute)
+  * Research topic: Sparse representation, image segmentation
+
 * IT Intern    2017
   * THERMO FISHER SCIENTIFIC CO.,LTD
   * Duties included: Maintain the business data on ERP system, Administration of electronic accounts system of staffs, Salesforce manual editing
