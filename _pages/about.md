@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+Academic position
+======
+* Post-doctoral Research Fellow in ISIR, Osaka University, 2024.
+
 Education
 ======
 * Ph.D. in Computer Science, University of Macau, 2020-2023.
