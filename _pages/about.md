@@ -10,7 +10,7 @@ redirect_from:
 
 Academic position
 ======
-* Post-doctoral Research Fellow in ISIR, Osaka University, 2024.
+* Post-doctoral Research Fellow, Osaka University, 2024.
 
 Education
 ======
