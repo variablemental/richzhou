@@ -20,7 +20,7 @@ Education
 
 Research Interests
 ======
-* Sparse representation; Subspace learning; Graph learning; Medical biometrics.
+* Sparse representation; Subspace learning; Graph learning; Medical biometrics; Medical biometrics.
 
 Selected Publications
 ======
@@ -47,6 +47,7 @@ Selected Publications
 
 News
 ======
+* <b>[02/2024]</b> From today, I joined the Yagi Lab @ Osaka University as the Postdoctoral Research Fellow 🤩.
 * <b>[10/2023]</b> I have obtained my doctoral degree! 🥰.
 * <b>[10/12/2022]</b> A paper has been accepted by IEEE Transactions on Image Processing ;).
 * <b>[30/09/2022]</b> A paper has been accepted by IEEE Transactions on Neural Networks and Learning Systems.
@@ -61,7 +62,7 @@ Working experience
   * University of Macau
   * Course teaching: Formal Languages and Automata, Introduction to Computer Science
 
-* <b>Research Assistant</b>    2022
+* <b>Research Assistant</b>    2022-2024
   * The Chinese University of Hong Kong (CUHK), Shenzhen
   * Research topic: Image processing, medical biometrics
 
