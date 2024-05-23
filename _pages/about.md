@@ -49,7 +49,7 @@ Selected Publications
 
 News
 ======
-* <b>[02/2024]</b> From today, I joined the Yagi Lab @ Osaka University as the Postdoctoral Research Fellow 🤩.
+* <b>[02/2024]</b> From this month, I joined the Yagi Lab @ Osaka University as the Postdoctoral Research Fellow 🤩.
 * <b>[10/2023]</b> I have obtained my doctoral degree! 🥰.
 * <b>[10/12/2022]</b> A paper has been accepted by IEEE Transactions on Image Processing ;).
 * <b>[30/09/2022]</b> A paper has been accepted by IEEE Transactions on Neural Networks and Learning Systems.
