@@ -20,7 +20,7 @@ Education
 
 Research Interests
 ======
-* Sparse representation; Subspace learning; Graph learning; Medical biometrics; Medical biometrics.
+* Sparse representation; Subspace learning; Graph learning; Medical biometrics;
 
 Selected Publications
 ======
@@ -60,12 +60,12 @@ News
 
 Working experience
 ======
-* <b>Teaching Assistant</b>    2018-present
+* <b>Teaching Assistant</b>    2018-2023
   * University of Macau
   * Course teaching: Formal Languages and Automata, Introduction to Computer Science
 
 * <b>Research Assistant</b>    2022-2024
-  * The Chinese University of Hong Kong (CUHK), Shenzhen
+  * The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
   * Research topic: Image processing, medical biometrics
 
 * <b>Visiting PhD student</b>    2023
