@@ -49,7 +49,7 @@ Selected Publications
 
 News
 ======
-* <b>[08/2024]</b> **[[Call for Paper]]([https://www.mdpi.com/1424-8220/19/11/2609](https://www.mdpi.com/journal/mathematics/special_issues/1D2U7S8T8E))** Mathematics (Q1, IF: 2.4) special issue on "Advanced Image Processing and Computational Intelligence: Methodologies and Applications". Deadline: 20 June 2025.
+* <b>[08/2024]</b> **[Call for Paper](https://www.mdpi.com/journal/mathematics/special_issues/1D2U7S8T8E)** Mathematics (Q1, IF: 2.4) special issue on "Advanced Image Processing and Computational Intelligence: Methodologies and Applications". Deadline: 20 June 2025.
 * <b>[02/2024]</b> From this month, I joined the Yagi Lab @ Osaka University as the Postdoctoral Research Fellow 🤩.
 * <b>[10/2023]</b> I have obtained my doctoral degree! 🥰.
 * <b>[10/12/2022]</b> A paper has been accepted by IEEE Transactions on Image Processing ;).
