@@ -13,6 +13,7 @@ Hello everyone. Nice to see you on my homepage. I am Jianhang Zhou, you can also
 
 Academic position
 ======
+* Assistant Professor, Shanghai University, now.
 * Post-doctoral Research Fellow, Osaka University, 2024-2025.
 
 Education
