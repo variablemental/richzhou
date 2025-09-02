@@ -1,56 +1,115 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Jianhang Zhou (Rich)`s home page!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+About me
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Hello everyone. Nice to see you on my homepage. I am Jianhang Zhou, you can also call me _Rich_ as my nickname. I was born in Shanghai and have multiple research experiences in different institutions/regions. In 2023, I obtained my Ph.D. degree in computer science from the University of Macau. Afterward, I worked as a Postdoctoral Research Fellow at Osaka University (Japan, 2023-2025). I also have experience as a visiting researcher at the Chinese University of Hong Kong (CUHK), Shenzhen. Currently, I am an assistant professor in Shanghai University. I generally work on subspace learning, sparse learning, green learning, and medical biometrics. Recently, I also have related experience in developing methodology/algorithm/system of [cybernetics avatar](https://avatar-life.jp/) (supported by the [JST Moonshot project](https://www8.cao.go.jp/cstp/english/moonshot/sub1_en.html)). For my daily life, I like hiking, traveling, coffee time, and anything fresh & interesting. I am fond of collaborating with others with different research directions/subjects (e.g., medicine science, brain science, etc.). If you have some interest in working/collaborating with me, you are always welcome! ;)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
+Academic position
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* Assistant Professor, Shanghai University, now.
+* Post-doctoral Research Fellow, Osaka University, 2023-2025.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Education
+======
+* Ph.D. in Computer Science, University of Macau, 2020-2023.
+* M.S. in Computer Science, University of Macau, 2018-2020.
+* B.Eng. in Computer Science & Technology, Nanjing Forestry University, 2014-2018.
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Research Interests
+======
+* Sparse representation; Subspace learning; Graph learning; Medical biometrics;
 
-**Markdown generator**
+Selected Publications
+======
+* Alsherfawi, A., <b>Zhou, J.*</b>, Shehata, A., & Yagi, Y. (2025). Behavioral Signature Decoding: Facial Landmark-based Graph Learning for Cybernetic Avatar Authentication. _2025 IEEE International Joint Conference on Biometrics_ (IJCB2025).
+* Ang, J., <b>Zhou, J.*</b>, & Wu, X. (2025). Privacy-preserving Facial-based Diagnosis with Shared-Attention Multitask Learning. _2025 IEEE International Joint Conference on Biometrics_ (IJCB2025).
+* <b>Zhou, J.</b>, Li, S., Zeng, S., & Zhang, B. (2024). Probabilistic Nuclear-Norm Matrix Regression Regularized by Random Graph Theory. IEEE Transactions on Emerging Topics in Computational Intelligence.
+* <b>Zhou, J.</b>, Zhang, Q., Zeng, S., Zhang, B., & Fang, L. (2024). Latent Linear Discriminant Analysis for feature extraction via Isometric Structural Learning. Pattern Recognition, 149, 110218.
+* <b>Zhou, J.</b>, Wang, G., Zeng, S., & Zhang, B. (2023). Learning with Euler Collaborative Representation for Robust Pattern Analysis. <i>ACM Transactions on Intelligent Systems and Technology</i>. 109, 1-25.
+* <b>Zhou, J.</b>, Zhang, B., & Zeng, S. (2022). Consensus Sparsity: Multi-context Sparse Image Representation via $L_{\infty}$-induced Matrix Variate. <i>IEEE Transactions on Image Processing</i>. 32, 603-616.
+* <b>Zhou, J.</b>, Zhang, Q., Zeng, S., & Zhang, B. (2022). Fuzzy Graph Subspace Convolutional Network. <i>IEEE Transactions on Neural Networks and Learning Systems</i>. [[paper]](https://ieeexplore.ieee.org/abstract/document/9911992)
+* <b>Zhou, J.</b>, Zhang, B., Zeng, S., & Lai, Q. (2021). Joint Discriminative Latent Subspace Learning for Image Classification. <i>IEEE Transactions on Circuits and Systems for Video Technology</i>. [[paper]](https://ieeexplore.ieee.org/abstract/document/9648339?casa_token=-cL7rL9ARNAAAAAA:ajcZzIm7LuR-Y7wrWT7GHzRwuf_LXv9VO-6HdDHCaI1hBCLidBtXvPAebXDLETQDVWd3Qrs5)
+* <b>Zhou, J.</b>, Zeng, S., & Zhang, B. (2021). Sparsity-Induced Graph Convolutional Network for Semisupervised Learning. <i>IEEE Transactions on Artificial Intelligence</i>, 2(6), 549-563. [[paper]](https://ieeexplore.ieee.org/abstract/document/9483578?casa_token=QpeVvkungVoAAAAA:0Zkyfki8gxG2YCZd5ycCRz0a1-tIswpExf3OoT30sJjxGNi6hx0pnZz9HgB9rFvGsUD-1vHj)
+* <b>Zhou, J.</b>, Zeng, S., & Zhang, B. (2020). Two-stage knowledge transfer framework for image classification. <i>Pattern Recognition</i>, 107, 107529. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320320303320?casa_token=zRnS9wDLi9cAAAAA:NOk2sRmmBeOgPX-J5QA7wb7bxn1gyfWKyM6h7YIEyRQ-TQM4o_vjcvh49ng0xKb2D71Ad4D2BQ)
+* <b>Zhou, J.</b>, Zeng, S., & Zhang, B. (2022). Learning salient self-representation for image recognition via orthogonal transformation. <i>Expert Systems with Applications 212</i>, 212, 118663. [[paper]](https://ieeexplore.ieee.org/abstract/document/9911992)
+* <b>Zhou, J.</b>, Zhang, Q., & Zhang, B. (2021). An automatic multi-view disease detection system via collective deep region-based feature representation. <i>Future Generation Computer Systems</i>, 115, 59-75. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20303897?casa_token=cwhA7zbZB_YAAAAA:ZKCZ0LlZXUpKN6rxtxCMws3JzwLj3j-6o6PaA_QDTlLv19uZ8JCgYJ4kMNQ18ebWS5qiepJ4nw)
+* <b>Zhou, J.</b>, Zeng, S., & Zhang, B. (2022). Kernel nonnegative representation-based classifier. <i>Applied Intelligence</i>, 52(2), 2269-2289. [[paper]](https://link.springer.com/article/10.1007/s10489-021-02486-0)
+* <b>Zhou, J.</b>, Zhang, Q., & Zhang, B. (2021). Two-phase non-invasive multi-disease detection via sublingual region. <i>Computers in Biology and Medicine</i>, 137, 104782. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S001048252100576X?casa_token=1T5VyaAYtF0AAAAA:y1sy0qAKHdTer4KspfW7tOImnUpUQXDPXaopYnWqi6pgfT1H6FaIqT7ZTb_Lsoc54dnjUJ7Fww)
+* Zhang, B., & <b>Zhou, J</b>. (2021). Multi-feature representation for burn depth classification via burn images. <i>Artificial Intelligence in Medicine</i>, 118, 102128. [[paper]](https://www.sciencedirect.com/science/article/pii/S0933365721001214?casa_token=2EXh76yJbCoAAAAA:LKJy4y-1XL45_xeKml1qDoldtOO4gjp5x9ltbuk-XQmGBw5F6E0Qr0RCNiLqQHZOfCJNDOnkOg)
+* Zhou, J., Zhang, Q., & Zhang, B. (2020, September). A progressive stack face-based network for detecting diabetes mellitus and breast cancer. <i>In 2020 IEEE International Joint Conference on Biometrics (IJCB)</i> (pp. 1-9). IEEE. [[paper]](https://ieeexplore.ieee.org/abstract/document/9304887?casa_token=vV5h8OgBcwEAAAAA:7-NnZwKyDqSw_MMn28Nw2mQRmxM2MrhhNpW8cFXmqwSyJyNETerigTTNa6eLGPyzdevz986p)
+* <b>Zhou, J.</b>, Zeng, S., & Zhang, B. (2021). Subspace-level dictionary fusion for robust multimedia classification. <i>Multimedia Tools and Applications</i>, 80(14), 21885-21898. [[paper]](https://link.springer.com/article/10.1007/s11042-021-10661-1)
+* <b>Zhou, J.</b>, Zhang, Q., Zhang, B., & Chen, X. (2019). TongueNet: a precise and fast tongue segmentation system using U-Net with a morphological processing layer. <i>Applied Sciences</i>, 9(15), 3128. [[paper]](https://www.mdpi.com/2076-3417/9/15/3128)
+* <b>Zhou, J.</b>, & Zhang, B. (2019). Collaborative representation using non-negative samples for image classification. <i>Sensors</i>, 19(11), 2609. [[paper]](https://www.mdpi.com/1424-8220/19/11/2609)
+* <i>For the <b>full publication list</b> and more details, plese kindly refer to the 'Publication' section</i>, Thanks!
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+<!--   <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+News
+======
+* <b>[09/2025]</b> We will held the IJCB2025 special session in Osaka, Japan. Welcome to partipate and communicate with us!🥰
+* <b>[08/2025]</b> My grant application of NSFC Youth Scientific Program has been approved!
+* <b>[07/2025]</b> Our two papers are accepted by IJCB2025! 😇
+* <b>[08/2024]</b> *[[Call for Paper]](https://www.mdpi.com/journal/mathematics/special_issues/1D2U7S8T8E)* Mathematics (Q1, IF: 2.4) special issue on "Advanced Image Processing and Computational Intelligence: Methodologies and Applications". Deadline: 20 June 2025.
+* <b>[02/2024]</b> From this month, I joined the Yagi Lab @ Osaka University as the Postdoctoral Research Fellow 🤩.
+* <b>[12/2023]</b> I visited CUHK-SZ as visiting scholar.
+* <b>[10/2023]</b> I have obtained my doctoral degree! 🥰.
+* <b>[10/12/2022]</b> A paper has been accepted by IEEE Transactions on Image Processing ;).
+* <b>[30/09/2022]</b> A paper has been accepted by IEEE Transactions on Neural Networks and Learning Systems.
+ * <b>[26/08/2022]</b> Cheers! A paper has been accepted by Expert Systems with Applications.
+* <b>[26/04/2022]</b> Cheers! With passing the thesis proposal assessment, I have become a <i>PhD candidate</i> now!
+* <b>[28/01/2022]</b> I worked as a research assisstant at the Chinese University of Hong Kong, Shenzhen (CUHK-SZ) from today.
+* <b>[03/11/2021]</b> A paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology.
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+Working experience
+======
+* <b>Teaching Assistant</b>    2018-2023
+  * University of Macau
+  * Course teaching: Formal Languages and Automata, Introduction to Computer Science
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* <b>Research Assistant</b>    2022-2024
+  * The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
+  * Research topic: Image processing, medical biometrics
+
+* <b>Visiting PhD student</b>    2023
+  * University of Electronic Science and Technology of China (Huzhou Institute)
+  * Research topic: Sparse representation, image segmentation
+
+* <b>IT Intern</b>    2017
+  * THERMO FISHER SCIENTIFIC CO.,LTD
+  * Duties included: Maintain the business data on ERP system, Administration of electronic accounts system of staffs, Salesforce manual editing
+  
+* <b>NLP Android developer</b>    2017.10-2018.01
+  * CERTUSNET INC.
+  * Duties included: Android programming, test and maintenance, Natural Language Processing Corpus processing and training, Salesforce manual editing
+
+Academic activity
+======
+* <b>Organizer</b> IJCB2025 special session: Privacy-Preserving Biometrics: Advances in Methodologies and Applications
+* <b>Reviewer</b>
+  * IEEE Transactions on Neural Networks and Learning Systems
+  * Expert Systems With Applications
+  * Artificial Intelligence Review
+* <b>Guest Editor</b> 
+  * Mathematics
+
+Certificates and Awards
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Position in campus
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
