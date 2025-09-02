@@ -1,7 +1,7 @@
 # main links links
 main:
   # - title: "中文"
-  #   url: /_pages/about_CN.md
+  #   url: /about_CN/
     
   - title: "Publications"
     url: /publications/
