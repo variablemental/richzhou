@@ -14,7 +14,7 @@ Hello everyone. Nice to see you on my homepage. I am Jianhang Zhou, you can also
 Academic position
 ======
 * Assistant Professor, Shanghai University, now.
-* Post-doctoral Research Fellow, Osaka University, 2024-2025.
+* Post-doctoral Research Fellow, Osaka University, 2023-2025.
 
 Education
 ======
@@ -28,6 +28,8 @@ Research Interests
 
 Selected Publications
 ======
+* Alsherfawi, A., <b>Zhou, J.*</b>, Shehata, A., & Yagi, Y. (2025). Behavioral Signature Decoding: Facial Landmark-based Graph Learning for Cybernetic Avatar Authentication. 2025 IEEE International Joint Conference on Biometrics (IJCB2025).
+* Ang, J., <b>Zhou, J.*</b>, & Wu, X. (2025). Privacy-preserving Facial-based Diagnosis with Shared-Attention Multitask Learning. 2025 IEEE International Joint Conference on Biometrics (IJCB2025).
 * <b>Zhou, J.</b>, Li, S., Zeng, S., & Zhang, B. (2024). Probabilistic Nuclear-Norm Matrix Regression Regularized by Random Graph Theory. IEEE Transactions on Emerging Topics in Computational Intelligence.
 * <b>Zhou, J.</b>, Zhang, Q., Zeng, S., Zhang, B., & Fang, L. (2024). Latent Linear Discriminant Analysis for feature extraction via Isometric Structural Learning. Pattern Recognition, 149, 110218.
 * <b>Zhou, J.</b>, Wang, G., Zeng, S., & Zhang, B. (2023). Learning with Euler Collaborative Representation for Robust Pattern Analysis. <i>ACM Transactions on Intelligent Systems and Technology</i>. 109, 1-25.
@@ -53,7 +55,10 @@ Selected Publications
 
 News
 ======
-* <b>[08/2024]</b> **[[Call for Paper]](https://www.mdpi.com/journal/mathematics/special_issues/1D2U7S8T8E)** Mathematics (Q1, IF: 2.4) special issue on "Advanced Image Processing and Computational Intelligence: Methodologies and Applications". Deadline: 20 June 2025.
+* <b>[09/2025]</b> We will held the IJCB2025 special session in Osaka, Japan. Welcome to partipate and communicate with us!🥰
+* <b>[08/2025]</b> My grant application of NSFC Youth Scientific Program has been approved!
+* <b>[07/2025]</b> Our two papers are accepted by IJCB2025! 😇
+* <b>[08/2024]</b> *[[Call for Paper]](https://www.mdpi.com/journal/mathematics/special_issues/1D2U7S8T8E)* Mathematics (Q1, IF: 2.4) special issue on "Advanced Image Processing and Computational Intelligence: Methodologies and Applications". Deadline: 20 June 2025.
 * <b>[02/2024]</b> From this month, I joined the Yagi Lab @ Osaka University as the Postdoctoral Research Fellow 🤩.
 * <b>[12/2023]</b> I visited CUHK-SZ as visiting scholar.
 * <b>[10/2023]</b> I have obtained my doctoral degree! 🥰.
@@ -88,6 +93,7 @@ Working experience
 
 Academic activity
 ======
+* <b>Organizer</b> IJCB2025 special session: Privacy-Preserving Biometrics: Advances in Methodologies and Applications
 * <b>Reviewer</b>
   * IEEE Transactions on Neural Networks and Learning Systems
   * Expert Systems With Applications
