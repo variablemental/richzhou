@@ -1,11 +1,4 @@
----
-permalink: /
-title: "Welcome to Jianhang Zhou (Rich)`s home page!"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 About me
 ======
