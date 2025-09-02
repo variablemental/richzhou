@@ -28,8 +28,8 @@ Research Interests
 
 Selected Publications
 ======
-* Alsherfawi, A., <b>Zhou, J.*</b>, Shehata, A., & Yagi, Y. (2025). Behavioral Signature Decoding: Facial Landmark-based Graph Learning for Cybernetic Avatar Authentication. 2025 IEEE International Joint Conference on Biometrics (IJCB2025).
-* Ang, J., <b>Zhou, J.*</b>, & Wu, X. (2025). Privacy-preserving Facial-based Diagnosis with Shared-Attention Multitask Learning. 2025 IEEE International Joint Conference on Biometrics (IJCB2025).
+* Alsherfawi, A., <b>Zhou, J.*</b>, Shehata, A., & Yagi, Y. (2025). Behavioral Signature Decoding: Facial Landmark-based Graph Learning for Cybernetic Avatar Authentication. _2025 IEEE International Joint Conference on Biometrics_ (IJCB2025).
+* Ang, J., <b>Zhou, J.*</b>, & Wu, X. (2025). Privacy-preserving Facial-based Diagnosis with Shared-Attention Multitask Learning. _2025 IEEE International Joint Conference on Biometrics_ (IJCB2025).
 * <b>Zhou, J.</b>, Li, S., Zeng, S., & Zhang, B. (2024). Probabilistic Nuclear-Norm Matrix Regression Regularized by Random Graph Theory. IEEE Transactions on Emerging Topics in Computational Intelligence.
 * <b>Zhou, J.</b>, Zhang, Q., Zeng, S., Zhang, B., & Fang, L. (2024). Latent Linear Discriminant Analysis for feature extraction via Isometric Structural Learning. Pattern Recognition, 149, 110218.
 * <b>Zhou, J.</b>, Wang, G., Zeng, S., & Zhang, B. (2023). Learning with Euler Collaborative Representation for Robust Pattern Analysis. <i>ACM Transactions on Intelligent Systems and Technology</i>. 109, 1-25.
