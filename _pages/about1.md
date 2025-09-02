@@ -1,5 +1,4 @@
 ---
-layout: single
 permalink: /
 title: "Welcome to Jianhang Zhou (Rich)`s home page!"
 author_profile: true
