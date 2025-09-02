@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "中文"
-    url: /_pages/about_CN.md
+  # - title: "中文"
+  #   url: /_pages/about_CN.md
     
   - title: "Publications"
     url: /publications/
@@ -15,8 +15,8 @@ main:
   - title: "Contact"
     url: /portfolio/
     
-  - title: "日本語"
-    url: /_pages/about_JP.md
+  # - title: "日本語"
+  #   url: /_pages/about_JP.md
     
 #   - title: "CV"
 #     url: /cv/
