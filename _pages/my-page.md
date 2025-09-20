@@ -1,5 +1,5 @@
 ---
-title: My New Page
+title: ""
 layout: single
 permalink: /my-page/
 ---
