@@ -2,6 +2,9 @@
 main:
   # - title: "中文"
   #   url: /aboutCN/
+
+  - title: "My New Page"
+    url: /my-page/
     
   - title: "Publications"
     url: /publications/
