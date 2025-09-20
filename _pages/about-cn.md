@@ -1,7 +1,7 @@
 ---
 title: ""
 layout: single
-permalink: /my-page/
+permalink: /about-cn/
 ---
 
 About me
