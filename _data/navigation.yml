@@ -3,8 +3,8 @@ main:
   # - title: "中文"
   #   url: /aboutCN/
 
-  - title: "My New Page"
-    url: /my-page/
+  - title: "中文"
+    url: /about-cn/
     
   - title: "Publications"
     url: /publications/
