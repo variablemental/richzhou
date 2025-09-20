@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "1"
 layout: single
 permalink: /about-cn/
 ---
