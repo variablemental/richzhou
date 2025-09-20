@@ -3,7 +3,7 @@ main:
   # - title: "中文"
   #   url: /aboutCN/
 
-  - title: "中文"
+  - title: "CN"
     url: /about-cn/
     
   - title: "Publications"
