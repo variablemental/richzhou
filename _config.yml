@@ -234,16 +234,16 @@ defaults:
       share: true
       comment: true
   # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  # _newpages
   - scope:
-      path: ""
-      type: talks
-    values:
-      layout: single
-      author_profile: true
-      share: true
-    # _newpages
-    - scope:
-      path: "_pages"
+    path: "_pages"
     values:
       layout: single
       author_profile: true
