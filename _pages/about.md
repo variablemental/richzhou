@@ -7,26 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-About me
+😊About me
 ======
 Hello everyone. Nice to see you on my homepage. I am Jianhang Zhou, you can also call me _Rich_ as my nickname. I was born in Shanghai and have multiple research experiences in different institutions/regions. In 2023, I obtained my Ph.D. degree in computer science from the University of Macau. Afterward, I worked as a Postdoctoral Research Fellow at Osaka University (Japan, 2023-2025). I also have experience as a visiting researcher at the Chinese University of Hong Kong (CUHK), Shenzhen. Currently, I am an assistant professor in Shanghai University. I generally work on subspace learning, sparse learning, green learning, and medical biometrics. I have participated in several projects (e.g., Cybernetic avatar and trustworthy biometric system [cybernetics avatar](https://avatar-life.jp/) , [JST Moonshot project](https://www8.cao.go.jp/cstp/english/moonshot/sub1_en.html)). Besides, I am funded by NSFC ( Natural Science Foundation of Youth Scientist Program (2026-2028)). For my daily life, I like hiking, traveling, coffee time, and anything fresh & interesting. I am fond of collaborating with others with different research directions/subjects (e.g., medicine science, brain science, etc.). If you have some interest in working/collaborating with me, you are always welcome! ;)
 
-Academic position
+🏫Academic position
 ======
 * Assistant Professor, Shanghai University, now.
 * Post-doctoral Research Fellow, Osaka University, 2023-2025.
 
-Education
+🎓Education
 ======
 * Ph.D. in Computer Science, University of Macau, 2020-2023.
 * M.S. in Computer Science, University of Macau, 2018-2020.
 * B.Eng. in Computer Science & Technology, Nanjing Forestry University, 2014-2018.
 
-Research Interests
+🔬Research Interests
 ======
 * Sparse representation; Subspace learning; Graph learning; Medical biometrics;
 
-Selected Publications
+💎Funding
+======
+* Research on Green Learning for Medical Biometrics and applications, Natural Science Foundation of Youth Scientist Program (2026-2028), 300,000
+
+📃Selected Publications
 ======
 * Alsherfawi, A., <b>Zhou, J.*</b>, Shehata, A., & Yagi, Y. (2025). Behavioral Signature Decoding: Facial Landmark-based Graph Learning for Cybernetic Avatar Authentication. _2025 IEEE International Joint Conference on Biometrics_ (IJCB2025).
 * Ang, J., <b>Zhou, J.*</b>, & Wu, X. (2025). Privacy-preserving Facial-based Diagnosis with Shared-Attention Multitask Learning. _2025 IEEE International Joint Conference on Biometrics_ (IJCB2025).
@@ -53,7 +57,7 @@ Selected Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-News
+🔥News
 ======
 * <b>[09/2025]</b> We will held the IJCB2025 special session in Osaka, Japan. Welcome to partipate and communicate with us!🥰
 * <b>[08/2025]</b> My grant application of NSFC Youth Scientific Program has been approved!
@@ -69,7 +73,7 @@ News
 * <b>[28/01/2022]</b> I worked as a research assisstant at the Chinese University of Hong Kong, Shenzhen (CUHK-SZ) from today.
 * <b>[03/11/2021]</b> A paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology.
 
-Working experience
+💻Working experience
 ======
 * <b>Teaching Assistant</b>    2018-2023
   * University of Macau
@@ -91,7 +95,7 @@ Working experience
   * CERTUSNET INC.
   * Duties included: Android programming, test and maintenance, Natural Language Processing Corpus processing and training, Salesforce manual editing
 
-Academic activity
+💬Academic activity
 ======
 * <b>Organizer</b> IJCB2025 special session: Privacy-Preserving Biometrics: Advances in Methodologies and Applications
 * <b>Reviewer</b>
@@ -101,13 +105,13 @@ Academic activity
 * <b>Guest Editor</b> 
   * Mathematics
 
-Certificates and Awards
+🎖️Certificates and Awards
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Position in campus
+🧀Position in campus
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
