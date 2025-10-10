@@ -1,29 +1,29 @@
 ---
-title: "CN"
+title: ""
 layout: single
 permalink: /about-cn/
 ---
 
-About me
+关于
 ======
-Hello everyone. Nice to see you on my homepage. I am Jianhang Zhou, you can also call me _Rich_ as my nickname. I was born in Shanghai and have multiple research experiences in different institutions/regions. In 2023, I obtained my Ph.D. degree in computer science from the University of Macau. Afterward, I worked as a Postdoctoral Research Fellow at Osaka University (Japan, 2023-2025). I also have experience as a visiting researcher at the Chinese University of Hong Kong (CUHK), Shenzhen. Currently, I am an assistant professor in Shanghai University. I generally work on subspace learning, sparse learning, green learning, and medical biometrics. I have participated in several projects (e.g., Cybernetic avatar and trustworthy biometric system [cybernetics avatar](https://avatar-life.jp/) , [JST Moonshot project](https://www8.cao.go.jp/cstp/english/moonshot/sub1_en.html)). Besides, I am funded by NSFC ( Natural Science Foundation of Youth Scientist Program (2026-2028)). For my daily life, I like hiking, traveling, coffee time, and anything fresh & interesting. I am fond of collaborating with others with different research directions/subjects (e.g., medicine science, brain science, etc.). If you have some interest in working/collaborating with me, you are always welcome! ;)
+大家好，欢迎来到我的个人主页！我是周建航，你也可以叫我 Rich。我在多个地区、国家和机构从事过科研工作。2023 年，我在澳門大學（University of Macau）获得计算机科学博士学位（PhD in Computer Science）。随后，我在大阪大学（日本，2023–2025）担任博士后研究员。此外，我还曾在香港中文大学（深圳）担任访问研究员。目前，我是上海大学的助理教授。我的研究方向主要包括：子空间学习、稀疏学习、绿色学习和医学生物特征识别。我曾参与多个相关项目，如Cybernetics Avatar与可信生物识别系统 （JST Moonshot 项目）。目前，我也获得了国家自然科学基金青年科学基金（2026–2028）的资助。在日常生活中，我喜欢徒步、旅行、咖啡时光，以及一切新鲜有趣的事物。我也非常乐于与不同领域的研究者合作（如医学、脑科学等）。如果你对合作或交流感兴趣，欢迎随时联系我！😉
 
-Academic position
+学术职位
 ======
-* Assistant Professor, Shanghai University, now.
-* Post-doctoral Research Fellow, Osaka University, 2023-2025.
+* 助理教授, 上海大学, 至今.
+* 博士后研究员, 大阪大学（Osaka University）, 2023-2025.
 
-Education
+教育背景
 ======
-* Ph.D. in Computer Science, University of Macau, 2020-2023.
-* M.S. in Computer Science, University of Macau, 2018-2020.
-* B.Eng. in Computer Science & Technology, Nanjing Forestry University, 2014-2018.
+* 哲学博士（Ph.D. in Computer Science）, 澳門大學（University of Macau）, 2020-2023.
+* 理学硕士（M.S. in Computer Science）,澳門大學（University of Macau）, 2018-2020.
+* 工学学士（B.Eng. in Computer Science & Technology）, 南京林業大學, 2014-2018.
 
-Research Interests
+研究方向
 ======
-* Sparse representation; Subspace learning; Graph learning; Medical biometrics;
+* 稀疏学习; 子空间学习; 图学习; 医学生物特征识别; 绿色学习；
 
-Selected Publications
+发表论文（部分）
 ======
 * Alsherfawi, A., <b>Zhou, J.*</b>, Shehata, A., & Yagi, Y. (2025). Behavioral Signature Decoding: Facial Landmark-based Graph Learning for Cybernetic Avatar Authentication. _2025 IEEE International Joint Conference on Biometrics_ (IJCB2025).
 * Ang, J., <b>Zhou, J.*</b>, & Wu, X. (2025). Privacy-preserving Facial-based Diagnosis with Shared-Attention Multitask Learning. _2025 IEEE International Joint Conference on Biometrics_ (IJCB2025).
@@ -50,7 +50,7 @@ Selected Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-News
+新闻
 ======
 * <b>[09/2025]</b> We will held the IJCB2025 special session in Osaka, Japan. Welcome to partipate and communicate with us!🥰
 * <b>[08/2025]</b> My grant application of NSFC Youth Scientific Program has been approved!
@@ -66,18 +66,18 @@ News
 * <b>[28/01/2022]</b> I worked as a research assisstant at the Chinese University of Hong Kong, Shenzhen (CUHK-SZ) from today.
 * <b>[03/11/2021]</b> A paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology.
 
-Working experience
+工作经验
 ======
-* <b>Teaching Assistant</b>    2018-2023
-  * University of Macau
-  * Course teaching: Formal Languages and Automata, Introduction to Computer Science
+* <b>助教</b>    2018-2023
+  * 澳門大學
+  * 带教课程: Formal Languages and Automata, Introduction to Computer Science
 
-* <b>Research Assistant</b>    2022-2024
-  * The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
-  * Research topic: Image processing, medical biometrics
+* <b>访问研究员</b>    2022-2024
+  * 香港中文大學（深圳）
+  * 研究方向: 图像处理, 医学生物特征识别
 
-* <b>Visiting PhD student</b>    2023
-  * University of Electronic Science and Technology of China (Huzhou Institute)
+* <b>访问博士生</b>    2023
+  * 电子科技大学长三角研究院（湖州）
   * Research topic: Sparse representation, image segmentation
 
 * <b>IT Intern</b>    2017
@@ -88,25 +88,21 @@ Working experience
   * CERTUSNET INC.
   * Duties included: Android programming, test and maintenance, Natural Language Processing Corpus processing and training, Salesforce manual editing
 
-Academic activity
+学术活动
 ======
-* <b>Organizer</b> IJCB2025 special session: Privacy-Preserving Biometrics: Advances in Methodologies and Applications
-* <b>Reviewer</b>
+* <b>组织</b> IJCB2025 special session: Privacy-Preserving Biometrics: Advances in Methodologies and Applications
+* <b>审稿人</b>
   * IEEE Transactions on Neural Networks and Learning Systems
   * Expert Systems With Applications
   * Artificial Intelligence Review
-* <b>Guest Editor</b> 
+* <b>客座编辑</b> 
   * Mathematics
 
-Certificates and Awards
+证书与奖项
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Position in campus
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
 
