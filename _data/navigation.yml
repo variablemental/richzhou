@@ -11,6 +11,9 @@ main:
 
   - title: "Awards & Certificates"
     url: /talks/    
+
+  - title: Calendar
+    url: /calendar/
     
 #   - title: "News"
 #     url: /year-archive/
