@@ -1,6 +1,6 @@
 ---
 permalink: /Lab/
-title: "Welcome to Identity Intelligence & Biometrics Pattern Perception Research Group (I^2BP^2 Research Group)!"
+title: "Welcome to Identity Intelligence & Biometrics Pattern Perception Research Group (I<sup>2</sup>BP<sup>2</sup> Research Group)!"
 author_profile: true
 redirect_from: 
   - /about/
