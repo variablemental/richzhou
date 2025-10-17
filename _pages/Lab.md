@@ -42,8 +42,8 @@ We currently collaborate with several universities, institutions, and research g
   <img src="/images/UM.jfif" width="35%" alt="UM" />
   <img src="/images/3031-universite-shanghai.jpg" width="35%" alt="SHU" />
   <img src="/images/CUSZ-03logo.png" width="15%" alt="CUHKSZ" />
-  <img src="/images/cityu_logorgb-01.png" width="35%" alt="CityUM" />
-  <img src="/images/GDUT_logo.png" width="20%" alt="GDUT" />
+  <img src="/images/cityu_logorgb-01.png" width="15%" alt="CityUM" />
+  <img src="/images/GDUT_logo.png" width="30%" alt="GDUT" />
   <img src="/images/UESTC_logo.png" width="20%" alt="UESTC" />
 </p>
 
