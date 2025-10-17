@@ -10,14 +10,17 @@ redirect_from:
 ❔ What is I<sup>2</sup>BP<sup>2</sup> Research Group?
 ======
 
+Coming soon...
 
 🙋 Who are we?
 ======
 
+Coming soon...
 
 🔍 What we do?
 ======
 
+Coming soon...
 
 💰 Who supports us?
 ======
