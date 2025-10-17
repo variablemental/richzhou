@@ -17,9 +17,7 @@ redirect_from:
 
 🔍 What we do?
 ======
-* Ph.D. in Computer Science, University of Macau, 2020-2023.
-* M.S. in Computer Science, University of Macau, 2018-2020.
-* B.Eng. in Computer Science & Technology, Nanjing Forestry University, 2014-2018.
+
 
 💰 Who supports us?
 ======
