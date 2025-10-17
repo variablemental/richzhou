@@ -5,6 +5,9 @@ main:
 
   - title: "中文"
     url: /about-cn/
+
+  - title: "Laboratory"
+    url: /Lab/
     
   - title: "Publications"
     url: /publications/
