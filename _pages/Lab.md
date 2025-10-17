@@ -27,6 +27,11 @@ Coming soon...
 We are funded and supported by multiple institutions and departments, including the National Natural Science Foundation of China (NSFC), Shanghai Government, Shanghai University, etc. Followings are our supporters:
 
 
+💰 Why join us?
+======
+Want to join us? Here is the useful recruiting information of our lab:
+
+
 
 🤝 Who we collaborate with?
 ======
