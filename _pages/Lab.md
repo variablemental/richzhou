@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /Lab/
 title: "Welcome to Identity Intelligence & Biometrics Pattern Perception Research Group (I^2BP^2 Research Group)!"
 author_profile: true
 redirect_from: 
