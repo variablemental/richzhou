@@ -38,8 +38,12 @@ Want to join us? Here is the useful recruiting information of our lab:
 We currently collaborate with several universities, institutions, and research groups all over the world 🌍. Followings are our collaborators:
 
 <p align="center">
-  <img src="/images/UO.png" width="15%" alt="Osaka University" />
-  <img src="/images/UM.jfif" width="35%" alt="University of Macau" />
-  <img src="/images/3031-universite-shanghai.jpg" width="35%" alt="Shanghai University" />
+  <img src="/images/UO.png" width="15%" alt="OU" />
+  <img src="/images/UM.jfif" width="35%" alt="UM" />
+  <img src="/images/3031-universite-shanghai.jpg" width="35%" alt="SHU" />
+  <img src="/images/CUSZ-03logo.png" width="15%" alt="CUHKSZ" />
+  <img src="/images/cityu_logorgb-01.png" width="35%" alt="CityUM" />
+  <img src="/images/GDUT_logo.png" width="20%" alt="GDUT" />
+  <img src="/images/UESTC_logo.png" width="20%" alt="UESTC" />
 </p>
 
