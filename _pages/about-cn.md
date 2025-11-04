@@ -28,6 +28,13 @@ permalink: /about-cn/
 * 面向医学生物特征识别的绿色学习方法研究, 国家自然科学基金青年项目（No. 62506224）, 主持，2026-2028
 * 上海市白玉兰人才青年项目（海外），主持，2026-2028
 
+⚜️课题组
+======
+关于我的课题组（(I<sup>2</sup>BP<sup>2</sup> Research Group），请访问：[课题组主页](https://variablemental.github.io/richzhou//Lab/)
+* 我们正在招募对研究充满热情的研究生及高年级本科生（大三/大四），欢迎有志于在 生物特征识别、模式分析以及隐私保护的身份识别科学（Identity Science）方向开展研究的同学加入我们的课题组。如果你对此感兴趣，欢迎通过电子邮件与我联系！
+* 目前课题组可研究的方向有：医学生物特征识别、步态识别、人脸隐私保护与生成、非完整多模态聚类、字典学习及稀疏表示；
+* 课题组与国内外多个知名大学与研究机构的研究团队建立合作关系，包括：香港中文大学(Chinese University of Hong Kong)、澳门大学(University of Macau)、日本大阪大学(The University of Osaka)、澳大利亚南昆士兰大学 (University of Southern Queensland)、澳门城市大学 (City University of Macau)、广东工业大学 (Guangdong University of Technology)
+
 📃发表论文（部分）
 ======
 * Alsherfawi, A., <b>Zhou, J.*</b>, Shehata, A., & Yagi, Y. (2025). Behavioral Signature Decoding: Facial Landmark-based Graph Learning for Cybernetic Avatar Authentication. _2025 IEEE International Joint Conference on Biometrics_ (IJCB2025).
