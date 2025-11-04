@@ -9,7 +9,7 @@ redirect_from:
 
 😊About me
 ======
-Hello everyone. Nice to see you on my homepage. I am Jianhang Zhou, you can also call me _Rich_ as my nickname. I was born in Shanghai and have multiple research experiences in different institutions/regions. In 2023, I obtained my Ph.D. degree in computer science from the University of Macau. Afterward, I worked as a Postdoctoral Research Fellow at Osaka University (Japan, 2023-2025). I also have experience as a visiting researcher at the Chinese University of Hong Kong (CUHK), Shenzhen. Currently, I am an assistant professor in Shanghai University. I generally work on subspace learning, sparse learning, green learning, and medical biometrics. I have participated in several projects (e.g., Cybernetic avatar and trustworthy biometric system [cybernetics avatar](https://avatar-life.jp/) , [JST Moonshot project](https://www8.cao.go.jp/cstp/english/moonshot/sub1_en.html)). Besides, I am funded by NSFC ( Natural Science Foundation of Youth Scientist Program (2026-2028)). For my daily life, I like hiking, traveling, coffee time, and anything fresh & interesting. I am fond of collaborating with others with different research directions/subjects (e.g., medicine science, brain science, etc.). If you have some interest in working/collaborating with me, you are always welcome! ;)
+Hello everyone. Nice to see you on my homepage. I am Jianhang Zhou, you can also call me _Rich_ as my nickname. I was born in Shanghai and have multiple research experiences in different institutions/regions. In 2023, I obtained my Ph.D. degree in computer science from the University of Macau. Afterward, I worked as a Postdoctoral Research Fellow at Osaka University (Japan, 2023-2025). I also have experience as a visiting researcher at the Chinese University of Hong Kong (CUHK), Shenzhen. Currently, I am an assistant professor in Shanghai University. I generally work on subspace learning, sparse learning, green learning, and medical biometrics. I have participated in several projects (e.g., Cybernetic avatar and trustworthy biometric system [cybernetics avatar](https://avatar-life.jp/) , [JST Moonshot project](https://www8.cao.go.jp/cstp/english/moonshot/sub1_en.html)). Besides, I am funded by NSFC ( Natural Science Foundation of Youth Scientist Program (2026-2028)) and Shanghai Overseas Talent Program (2026-2028). For my daily life, I like hiking, traveling, coffee time, and anything fresh & interesting. I am fond of collaborating with others with different research directions/subjects (e.g., medicine science, brain science, etc.). If you have some interest in working/collaborating with me, you are always welcome! ;)
 
 🏫Academic position
 ======
@@ -59,6 +59,7 @@ Hello everyone. Nice to see you on my homepage. I am Jianhang Zhou, you can also
 
 🔥News
 ======
+* <b>[11/2025]</b> I was awarded and granted 2025 Shanghai Overseas Talents Program!🎊🍎
 * <b>[09/2025]</b> We will held the IJCB2025 special session in Osaka, Japan. Welcome to partipate and communicate with us!🥰
 * <b>[08/2025]</b> My grant application of NSFC Youth Scientific Program has been approved!
 * <b>[07/2025]</b> Our two papers are accepted by IJCB2025! 😇
