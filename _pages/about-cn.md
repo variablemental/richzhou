@@ -6,7 +6,7 @@ permalink: /about-cn/
 
 关于
 ======
-大家好，欢迎来到我的个人主页！我是周建航，你也可以叫我 Rich。我在多个地区、国家和机构从事过科研工作。2023 年，我在澳門大學（University of Macau）获得计算机科学博士学位（PhD in Computer Science）。随后，我在大阪大学（日本，2023–2025）担任博士后研究员。此外，我还曾在香港中文大学（深圳）担任访问研究员。目前，我是上海大学的助理教授。我的研究方向主要包括：子空间学习、稀疏学习、绿色学习和医学生物特征识别。我曾参与多个相关项目，如Cybernetics Avatar与可信生物识别系统 （JST Moonshot 项目）。目前，我也获得了国家自然科学基金青年科学基金（2026–2028）的资助。在日常生活中，我喜欢徒步、旅行、咖啡时光，以及一切新鲜有趣的事物。我也非常乐于与不同领域的研究者合作（如医学、脑科学等）。如果你对合作或交流感兴趣，欢迎随时联系我！😉
+大家好，欢迎来到我的个人主页！我是周建航，你也可以叫我 Rich。我在多个地区、国家和机构从事过科研工作。目前，我是上海大学的助理教授、硕士生导师、上海市白玉兰人才（海外）。2023 年，我在澳門大學（University of Macau）获得计算机科学博士学位（PhD in Computer Science）。随后，我在大阪大学（日本，2023–2025）担任博士后研究员。此外，我还曾在香港中文大学（CHUK,SZ）担任访问研究员。我的研究方向主要包括：子空间学习、稀疏学习、绿色学习和医学生物特征识别。我曾参与多个相关项目，如Cybernetics Avatar与可信生物识别系统 （JST Moonshot Project）。目前，我主持了国家自然科学基金青年项目（2026–2028）、上海市白玉兰人才青年项目等科研项目。2025年，被在日常生活中，我喜欢徒步、旅行、咖啡时光，以及一切新鲜有趣的事物。我也非常乐于与不同领域的研究者合作（如医学、脑科学等）。如果你对合作或交流感兴趣，欢迎随时联系我！😉
 
 学术职位
 ======
@@ -52,6 +52,7 @@ permalink: /about-cn/
 
 新闻
 ======
+* <b>[11/2025]</b> I was awarded and granted 2025 Shanghai Overseas Talents Program!🎊🍎
 * <b>[09/2025]</b> We will held the IJCB2025 special session in Osaka, Japan. Welcome to partipate and communicate with us!🥰
 * <b>[08/2025]</b> My grant application of NSFC Youth Scientific Program has been approved!
 * <b>[07/2025]</b> Our two papers are accepted by IJCB2025! 😇
