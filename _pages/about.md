@@ -31,6 +31,13 @@ Hello everyone. Nice to see you on my homepage. I am Jianhang Zhou, you can also
 * Research on Green Learning for Medical Biometrics and applications, Natural Science Foundation of Youth Scientist Program (2026-2028), 300,000
 * Shanghai Overseas Talent Program (2026-2028), 300,000
 
+⚜️Research Group
+======
+About my Research Group（(I<sup>2</sup>BP<sup>2</sup> Research Group），Please kindly visit：[Research Group HP](https://variablemental.github.io/richzhou//Lab/)
+* We are recruiting highly motivated post-graduate students and BSc students (B3/B4) who are passionate about doing research on Biometrics, Pattern analysis, and privacy-preserving identity science. If you have any interests, please don’t hesitate to contact me via email.
+* The available research topic in our group：medical biometrics、Gait Analysis、Facial Privacy-preserving and synthesis、Incomplete Multi-view Clustering、Dictionary Learning and Sparse Representation;
+* We have connections and collaboration with multiple prestigious universities & institutions overseas, including：Chinese University of Hong Kong, University of Macau, The University of Osaka, University of Southern Queensland, City University of Macau, Guangdong University of Technology.
+
 📃Selected Publications
 ======
 * Alsherfawi, A., <b>Zhou, J.*</b>, Shehata, A., & Yagi, Y. (2025). Behavioral Signature Decoding: Facial Landmark-based Graph Learning for Cybernetic Avatar Authentication. _2025 IEEE International Joint Conference on Biometrics_ (IJCB2025).
