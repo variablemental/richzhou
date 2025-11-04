@@ -29,6 +29,7 @@ Hello everyone. Nice to see you on my homepage. I am Jianhang Zhou, you can also
 💎Funding
 ======
 * Research on Green Learning for Medical Biometrics and applications, Natural Science Foundation of Youth Scientist Program (2026-2028), 300,000
+* Shanghai Overseas Talent Program (2026-2028), 300,000
 
 📃Selected Publications
 ======
