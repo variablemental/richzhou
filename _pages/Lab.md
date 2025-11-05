@@ -41,9 +41,8 @@ Currently, we are focusing on the research topics as follows:
 ======
 We are funded and supported by multiple institutions and departments, including the National Natural Science Foundation of China (NSFC), Shanghai Government, and Shanghai University, etc. Followings are our supporters:
 
-* Research on Green Learning for Medical Biometrics and applications, Natural Science Foundation of Youth Scientist Program (NSFC, 2026-2028), 300,000, PI
-* 
-* 
+* Research on Green Learning for Medical Biometrics and applications, Natural Science Foundation of Youth Scientist Program, NSFC, 2026-2028, PI
+* Shanghai Overseas Talents Program, Shanghai Government, 2026-2028, PI
 
 
 👋 Why join us?
