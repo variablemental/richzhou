@@ -69,12 +69,12 @@ I also welcome international students to join us to enhance the diversity of our
 We currently collaborate with several universities, institutions, and research groups all over the world 🌍. Followings are our collaborators:
 
 <p align="center">
-  <img src="{{ '/images/UO.png' | relative_url }}" width="15%" alt="OU" />
-  <img src="images/UM.jfif" width="35%" alt="UM" />
-  <img src="images/3031-universite-shanghai.jpg" width="30%" alt="SHU" />
-  <img src="images/CUSZ-03logo.png" width="25%" alt="CUHKSZ" />
-  <img src="images/cityu_logorgb-01.png" width="15%" alt="CityUM" />
-  <img src="images/GDUT_logo.png" width="30%" alt="GDUT" />
-  <img src="images/UESTC_logo.png" width="15%" alt="UESTC" />
+  <img src="/images/UO.png" width="15%" alt="OU" />
+  <img src="/images/UM.jfif" width="35%" alt="UM" />
+  <img src="/images/3031-universite-shanghai.jpg" width="30%" alt="SHU" />
+  <img src="/images/CUSZ-03logo.png" width="25%" alt="CUHKSZ" />
+  <img src="/images/cityu_logorgb-01.png" width="15%" alt="CityUM" />
+  <img src="/images/GDUT_logo.png" width="30%" alt="GDUT" />
+  <img src="./images/UESTC_logo.png" width="15%" alt="UESTC" />
 </p>
 
