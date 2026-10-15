@@ -33,7 +33,7 @@ Hello everyone. Nice to see you on my homepage. I am Jianhang Zhou, you can also
 
 ⚜️Research Group
 ======
-About my Research Group（(I<sup>2</sup>BP<sup>2</sup> Research Group），Please kindly visit：[Research Group HP](https://variablemental.github.io/richzhou//Lab/)
+About my research group, the Pattern Analysis and Identity Intelligence Lab (PAII / &pi;<sup>2</sup>), please visit: [Lab homepage](https://variablemental.github.io/richzhou/Lab/)
 * We are recruiting highly motivated post-graduate students and BSc students (B3/B4) who are passionate about doing research on Biometrics, Pattern analysis, and privacy-preserving identity science. If you have any interests, please don’t hesitate to contact me via email.
 * The available research topic in our group：medical biometrics、Gait Analysis、Facial Privacy-preserving and synthesis、Incomplete Multi-view Clustering、Dictionary Learning and Sparse Representation;
 * We have connections and collaboration with multiple prestigious universities & institutions overseas, including：Chinese University of Hong Kong, University of Macau, The University of Osaka, University of Southern Queensland, City University of Macau, Guangdong University of Technology.
