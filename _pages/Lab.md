@@ -93,7 +93,7 @@ Currently, we are focusing on the research topics as follows:
 * Green Learning
 * Dictionary Learning and Sparse Representation
 * Affective computing
-* 
+* Incomplete Multi-view Learning
 
 💰 Who supports us?
 ======
