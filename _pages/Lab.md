@@ -1,16 +1,16 @@
 ---
 permalink: /Lab/
-title: "Welcome to Identity Intelligence & Biometrics Pattern Perception (I<sup>2</sup>BP<sup>2</sup>) Research Group !"
+title: "Welcome to the Pattern Analysis and Identity Intelligence Lab (PAII / &pi;<sup>2</sup>)!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-❔ What is I<sup>2</sup>BP<sup>2</sup> Research Group?
+❔ What is the Pattern Analysis and Identity Intelligence Lab?
 ======
 
-In Identity Intelligence & Biometrics Pattern Perception Research Group ($I^2BP^2$), we struggle to answer the scientific questions:
+At the Pattern Analysis and Identity Intelligence Lab (PAII, or &pi;<sup>2</sup>), we strive to answer the following scientific questions:
 - What is the natural representation of identity in different species (human being, marine life, etc.)?
 - IS it possible for us to extract a unique biometric pattern for each identity from a highly diverse and complicated environment?
 - What decides the better biometric pattern? Nature-based or Application-driven?
@@ -21,7 +21,65 @@ The Motto of our group is:
 🙋 Who are we?
 ======
 
-We are a research group that belongs to Shanghai University (SHU). We have 3 members (quite tiny!) at present but will expand very soon. 
+We are a research group at Shanghai University (SHU). We currently have 5 members and look forward to growing our team.
+
+### Our members
+
+<div class="lab-members">
+  <figure class="lab-member">
+    <div class="lab-member__portrait" role="img" aria-label="Portrait placeholder for member 1">Portrait</div>
+    <figcaption>Member 1</figcaption>
+  </figure>
+  <figure class="lab-member">
+    <div class="lab-member__portrait" role="img" aria-label="Portrait placeholder for member 2">Portrait</div>
+    <figcaption>Member 2</figcaption>
+  </figure>
+  <figure class="lab-member">
+    <div class="lab-member__portrait" role="img" aria-label="Portrait placeholder for member 3">Portrait</div>
+    <figcaption>Member 3</figcaption>
+  </figure>
+  <figure class="lab-member">
+    <div class="lab-member__portrait" role="img" aria-label="Portrait placeholder for member 4">Portrait</div>
+    <figcaption>Member 4</figcaption>
+  </figure>
+  <figure class="lab-member">
+    <div class="lab-member__portrait" role="img" aria-label="Portrait placeholder for member 5">Portrait</div>
+    <figcaption>Member 5</figcaption>
+  </figure>
+</div>
+
+<style>
+  .lab-members {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 1.25rem;
+    margin: 1.5rem 0 2rem;
+  }
+
+  .lab-member {
+    margin: 0;
+    text-align: center;
+  }
+
+  .lab-member__portrait {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 140px;
+    height: 175px;
+    max-width: 100%;
+    margin: 0 auto 0.65rem;
+    border: 2px dashed #a9a9a9;
+    border-radius: 0.5rem;
+    background: #f5f5f5;
+    color: #666;
+    font-size: 0.85rem;
+  }
+
+  .lab-member figcaption {
+    font-weight: 600;
+  }
+</style>
 
 🔍 What we do?
 ======
