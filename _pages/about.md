@@ -59,7 +59,7 @@ About my research group, the Pattern Analysis and Identity Intelligence Lab (PAI
 * <b>Zhou, J.</b>, Zeng, S., & Zhang, B. (2021). Subspace-level dictionary fusion for robust multimedia classification. <i>Multimedia Tools and Applications</i>, 80(14), 21885-21898. [[paper]](https://link.springer.com/article/10.1007/s11042-021-10661-1)
 * <b>Zhou, J.</b>, Zhang, Q., Zhang, B., & Chen, X. (2019). TongueNet: a precise and fast tongue segmentation system using U-Net with a morphological processing layer. <i>Applied Sciences</i>, 9(15), 3128. [[paper]](https://www.mdpi.com/2076-3417/9/15/3128)
 * <b>Zhou, J.</b>, & Zhang, B. (2019). Collaborative representation using non-negative samples for image classification. <i>Sensors</i>, 19(11), 2609. [[paper]](https://www.mdpi.com/1424-8220/19/11/2609)
-* <i>For the <b>full publication list</b> and more details, plese kindly refer to the 'Publication' section</i>, Thanks!
+* <i>For the <b>full publication list</b> and more details, please visit my <a href="https://scholar.google.com/citations?user=enoKkoYAAAAJ&hl=en">Google Scholar profile</a>. Thanks!</i>
 
 <!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
