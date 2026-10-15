@@ -67,6 +67,7 @@ About my research group, the Pattern Analysis and Identity Intelligence Lab (PAI
 
 🔥News
 ======
+* <b>[09/2026]</b> We have held the First Competition on Age Estimation with Facial and Tongue Biometrics! ❤️
 * <b>[11/2025]</b> I was awarded and granted 2025 Shanghai Overseas Talents Program!🎊🍎
 * <b>[09/2025]</b> We will held the IJCB2025 special session in Osaka, Japan. Welcome to partipate and communicate with us!🥰
 * <b>[08/2025]</b> My grant application of NSFC Youth Scientific Program has been approved!
